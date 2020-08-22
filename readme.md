@@ -1,0 +1,1 @@
+local-hostname : Nếu set trùng instance-id hoặc sử dụng meta-data trên cùng một máy thì khi khởi chạy lại cloud-init ,nó sẽ kiểm tra có trùng instance-id k , nếu tồn tại thì sẽ  bỏ qua các bước config 
