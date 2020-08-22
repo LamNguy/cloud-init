@@ -17,3 +17,14 @@ virt-install --name centos \
   
   
   
+
+Create  encrypted password : openssl passwd -1 "password"
+[link](https://www.cloudkb.net/change-root-password-kvm-qcow2-image/)
+
+Shadow file format 
+[link](https://www.2daygeek.com/understanding-linux-etc-shadow-file-format/#:~:text=The%20%2Fetc%2Fshadow%20file%20stores,less%20of%20a%20security%20risk)
+
+
+Merge a disk and a qcow2 into one 
+[link](https://stackoverflow.com/questions/22913384/transforming-qcows2-snapshot-plus-backing-file-into-standalone-image-file)
+
