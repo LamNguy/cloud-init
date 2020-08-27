@@ -15,7 +15,7 @@ virt-install --name centos \
   ```
   
   
-  
+ https://docs.openstack.org/image-guide/modify-images.html
   
 
 Create  encrypted password : openssl passwd -1 "password"
