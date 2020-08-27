@@ -1,3 +1,7 @@
+#edit /etc/rc.local and add the following lines before the line touch /var/lock/subsys/local
+
+
+
 if [ ! -d /root/.ssh ]; then
   mkdir -p /root/.ssh
   chmod 700 /root/.ssh
